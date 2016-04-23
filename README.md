@@ -1,0 +1,1 @@
+This repoitory contains severeal MapReduce and Spark scripts that I used for some projects
